@@ -6,7 +6,7 @@ An interactive, animated dragon rendered using SVG, HTML, CSS, and JavaScript. T
 
 ![Demo Image](dragon.png) <!-- Add a screenshot or GIF link here -->
 
-Click [here](dragon.gif) to see in action.
+## Click [here](dragon.gif) to see in action.
 
 ## 📑 Table of Contents
 
