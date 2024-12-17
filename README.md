@@ -1,4 +1,4 @@
-# 📸 Fotomatic Responsive Webpage
+# 📸 Fotomatic Responsive Webpage 
 
 Fotomatic is a sleek, responsive webpage promoting an instant-format camera, designed to adapt seamlessly across all screen sizes. With a well-structured layout, it ensures a visually engaging experience, whether on desktop, tablet, or mobile. This project demonstrates responsive web design techniques, optimizing user interactions and showcasing Fotomatic’s unique camera features beautifully on any device.
 
