@@ -1,4 +1,4 @@
-# 🐉 Interactive Dragon Animation
+# 🐉 Interactive Dragon Animation 
 
 An interactive, animated dragon rendered using SVG, HTML, CSS, and JavaScript. This project showcases a visually captivating dragon that follows the cursor around the screen in real-time.
 
